@@ -26,7 +26,7 @@ namespace EmployeeManagementSystem
         {
             while (true)
             {
-                Console.WriteLine("\n--- EPHRS - MAIN BRANCH ---");
+                Console.WriteLine("\n--- HR Management System v2.0 ---");
                 Console.WriteLine("1. Add Employee (Create)");
                 Console.WriteLine("2. View All (Read)");
                 Console.WriteLine("3. Search/Filter");
